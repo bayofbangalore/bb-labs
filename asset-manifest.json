@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9412e3a0.css",
+    "main.js": "/static/js/main.7bb4a5dc.js",
+    "static/js/453.f7b2ff10.chunk.js": "/static/js/453.f7b2ff10.chunk.js",
+    "static/media/bb-labs-p1.jpg": "/static/media/bb-labs-p1.f78d6484268a0dbb3807.jpg",
+    "static/media/ai2.jpg": "/static/media/ai2.3621c9e435c029ddad76.jpg",
+    "static/media/bb-labs-p3.jpg": "/static/media/bb-labs-p3.f7fdf676cd8d277c8c35.jpg",
+    "static/media/bb-labs-p2.jpg": "/static/media/bb-labs-p2.97c008cfd4c39844b69a.jpg",
+    "static/media/right_img.png": "/static/media/right_img.c383d0d7d12d52535d7d.png",
+    "static/media/bb_labs.png": "/static/media/bb_labs.7e2da6de96d26897d815.png",
+    "index.html": "/index.html",
+    "main.9412e3a0.css.map": "/static/css/main.9412e3a0.css.map",
+    "main.7bb4a5dc.js.map": "/static/js/main.7bb4a5dc.js.map",
+    "453.f7b2ff10.chunk.js.map": "/static/js/453.f7b2ff10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9412e3a0.css",
+    "static/js/main.7bb4a5dc.js"
+  ]
+}
